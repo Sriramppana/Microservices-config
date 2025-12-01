@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to RamBank accounts related prod APIs"
   contactDetails:
     name: "Sriram Appana - Product Owner"
-    email: "sriramappana@rambank.com"
+    email: "{cipher}10465d040e9eb8270db9c86d5108b77da8ee8016eb5c99f581c0c57930fae99910b65b6f30a162e411fd3755bf29f921"
   onCallSupport:
     - "+91 9010444230"
     - "+91 9966351388"
