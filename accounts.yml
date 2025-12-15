@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to RamBank accounts related local APIs"
+  message: "Welcome to RamBank accounts related docker local APIs"
   contactDetails:
     name: "Sriram Appana - Developer"
     email: "sriramappana@rambank.com"
